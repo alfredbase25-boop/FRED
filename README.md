@@ -1,0 +1,2 @@
+# FRED
+My first repository.
